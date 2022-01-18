@@ -1,1 +1,1 @@
-pro2.java file updated 
+ pro2.java file updated for second commit 
